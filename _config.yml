@@ -9,3 +9,8 @@ mathjax: disabled
 sass:
         style: compressed
 
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed        
+
