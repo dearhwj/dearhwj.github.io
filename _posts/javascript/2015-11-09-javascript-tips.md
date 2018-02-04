@@ -1,3 +1,11 @@
+---
+layout: post
+title: Javascript Tips
+category: Javascript
+keywords: Javascript
+---
+
+
 # Javascript Tips
 [Unicode与JavaScript详解](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 

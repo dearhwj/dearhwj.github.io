@@ -1,2 +1,11 @@
-port:80
-url:http://www.hanting.tech
+port: 80
+url: http://www.hanting.tech
+filter: 'category'
+recent_num: 20
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+        style: compressed
+
