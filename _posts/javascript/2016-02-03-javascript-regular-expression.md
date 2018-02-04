@@ -1,4 +1,11 @@
-# Javascript Regular Expression
+---
+layout: post
+title: Javascript Regular Expression
+category: Javascript
+keywords: Javascript
+---
+
+
 [JavaScript 正则表达式 验证整数、小数、实数、有效位小数最简单]("http://www.jb51.net/article/19159.htm")
 	
 	正整数: /^\d+$/.test(this.value)

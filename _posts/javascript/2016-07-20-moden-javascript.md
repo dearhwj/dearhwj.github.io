@@ -1,4 +1,9 @@
-# Moden Javascipt
+---
+layout: post
+title: Moden Javascipt
+category: Javascript
+keywords: Javascript
+---
 
 [使用＂立即执行函数＂（Immediately-Invoked Function Expression，IIFE）](http://www.ithao123.cn/content-5615777.html)
 

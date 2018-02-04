@@ -6,7 +6,6 @@ keywords: Javascript
 ---
 
 
-# Javascript Tips
 [Unicode与JavaScript详解](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 
 [JavaScript中对象的属性](http://www.cnblogs.com/ziyunfei/archive/2012/10/30/2745786.html)
