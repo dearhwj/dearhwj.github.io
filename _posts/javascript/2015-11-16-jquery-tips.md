@@ -1,4 +1,10 @@
-# JQuery Tips
+---
+layout: post
+title: JQuery Tips
+category: Javascript
+keywords: Javascript,JQuery
+---
+
 
 
 [jQuery页面加载初始化的3种方法](http://blog.csdn.net/tjcyjd/article/details/6713474)
