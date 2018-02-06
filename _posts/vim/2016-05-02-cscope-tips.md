@@ -1,4 +1,11 @@
-# cscope  Tips
+---
+layout: post
+title: Cscope Tips
+category: Vim
+keywords: Vim, Cscope
+--- 
+
+
 
 [cscope中这样生成cscope.files](http://blog.csdn.net/david_xtd/article/details/7737653)
 		

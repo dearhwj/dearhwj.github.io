@@ -1,4 +1,12 @@
-# VIM插入
+
+---
+layout: post
+title: Vim插入
+category: Vim
+keywords: Vim
+--- 
+
+
 
 * i 在游標所在字元前開始輸入文字(insert)。
 * a 在游標所在字元後開始輸入文字(append)。

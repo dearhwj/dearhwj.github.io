@@ -1,4 +1,11 @@
-# vim选择
+---
+layout: post
+title: Vim选择
+category: Vim
+keywords: Vim
+--- 
+
+
 * vi{ 选中｛｝中间的内容,不包括｛｝
 * va{ 选中｛｝中间内容，包括{}
 * vi( 选中（）中间内容

@@ -1,4 +1,10 @@
-# vim复制粘贴
+---
+layout: post
+title: Vim复制粘贴
+category: Vim
+keywords: Vim
+--- 
+
 ## 如何将vim进行系统剪贴板的粘贴
 
 
@@ -10,4 +16,4 @@ Type mk to mark this spot as k.
 4. You can paste those lines wherever you want with p
 
 
-http://vim.wikia.com/wiki/Cut_or_copy_lines_without_counting_the_lines
+[http://vim.wikia.com/wiki/Cut_or_copy_lines_without_counting_the_lines](ttp://vim.wikia.com/wiki/Cut_or_copy_lines_without_counting_the_lines)
