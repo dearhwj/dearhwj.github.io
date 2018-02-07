@@ -1,4 +1,4 @@
 BLOG_HOME='/data/blog'
-cd $BLOg_HOME
+cd $BLOG_HOME
 git pull
 jekyll build 
