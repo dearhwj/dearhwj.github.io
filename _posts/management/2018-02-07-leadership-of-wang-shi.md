@@ -1,4 +1,9 @@
-# 王石的领导力
+---
+layout: post
+title: 王石的领导力
+category: 管理
+keywords: 领导力
+--- 
 
 
 ### 王石领导六字诀
