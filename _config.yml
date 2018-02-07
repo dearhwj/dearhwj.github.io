@@ -6,6 +6,8 @@ permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 highlighter: rouge
 mathjax: disabled
+source: .
+destination: _site
 sass:
         style: compressed
 
