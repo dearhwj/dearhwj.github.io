@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Shell脚本增加主机名IP绑定
-category: Shell
-keywords: Shell
+category: Shell脚本
+keywords: hostname, ifconfig
 --- 
 
 ## 原文
