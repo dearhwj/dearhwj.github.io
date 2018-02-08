@@ -13,6 +13,7 @@ files=os.listdir(source_path)
 
 while files:
 
+
     if not target_path.endswith("/"):
         target_path+="/"
     if not os.path.exists(target_path):
@@ -27,16 +28,20 @@ while files:
         file_path = source_path +"/"+ file_name
 
 
+    if  file_name.endswith(".md"):
+        stat = os.stat(file_path)
+        if file_name.startswith("."):
+            continue
 
-    stat = os.stat(file_path)
-    if file_name.startswith("."):
-        continue
-
-    if os.path.isdir(file_path):
-        continue
+        if os.path.isdir(file_path):
+            continue
 
     # print(file_path, os.path.isdir(file_path))
 
-    file_name_moved= target_path+(time.strftime("%Y-%m-%d",time.gmtime(stat.st_birthtime))+"-"+file_name).replace("_","-")
-    print(file_path,file_name_moved)
-    shutil.copy(file_path,file_name_moved)
+        file_name_moved= target_path+(time.strftime("%Y-%m-%d",time.gmtime(stat.st_birthtime))+"-"+file_name).replace("_","-")
+        print(file_path,file_name_moved)
+        shutil.copy(file_path,file_name_moved)
+    else:
+        file_name_moved= target_path+file_name
+        print(file_path, file_name_moved)
+        shutil.copy(file_path, file_name_moved)
