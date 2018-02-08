@@ -6,9 +6,10 @@ category: Shell
 keywords: Shell
 --- 
 
-# 
+
 
 ## 原文
+原文地址:[https://segmentfault.com/q/1010000000735532](https://segmentfault.com/q/1010000000735532)
 
 ```
 HOSTNAME=`hostname`
