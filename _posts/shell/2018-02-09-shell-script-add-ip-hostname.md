@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Shell脚本增加主机名IP绑定
