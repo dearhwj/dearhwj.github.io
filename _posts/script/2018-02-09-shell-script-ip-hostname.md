@@ -1,8 +1,9 @@
 ---
+keywords: hostname,ifconfig
 layout: post
 title: Shell脚本增加主机名IP绑定
 category: Shell脚本
-keywords: hostname,ifconfig
+
 --- 
 
 ## 原文
