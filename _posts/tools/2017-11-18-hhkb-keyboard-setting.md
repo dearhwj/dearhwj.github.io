@@ -2,7 +2,7 @@
 keywords: HHKB
 layout: post
 title: HHKB键盘设置
-category: 工具
+category: 工具和效率
 --- 
 
 
