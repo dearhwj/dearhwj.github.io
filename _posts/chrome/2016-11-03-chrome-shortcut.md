@@ -2,7 +2,7 @@
 keywords: Chrome
 layout: post
 title: Chrome快捷键
-category: 工具和效率
+category: 开发工具
 --- 
 
 ## 正文

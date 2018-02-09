@@ -2,7 +2,7 @@
 keywords: Chrome
 layout: post
 title: Chrome插件
-category: 工具和效率
+category: 开发工具
 --- 
 
 
