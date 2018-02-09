@@ -1,4 +1,13 @@
-# 早期苹果员工胸牌背面写的11条成功法则
+---
+keywords: Apple
+layout: post
+title: 早期苹果员工胸牌背面写的11条成功法则
+category: 企业文化
+
+--- 
+
+## 正文
+
 
 ![](/images/apple_early_success_rules.jpg)
 
