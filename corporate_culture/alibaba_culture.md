@@ -7,4 +7,4 @@ keywords: Alibaba
 
 ## 阿里巴巴组织管理精华
 
-![](/images/alibaba_culture)
+![](/images/alibaba_culture.jpeg)
