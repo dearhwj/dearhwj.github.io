@@ -1,7 +1,14 @@
-# 定制ideavim
-原文地址: [https://www.jianshu.com/p/ec6b4b4536aa](https://www.jianshu.com/p/ec6b4b4536aa)
+---
+keywords: ideavim,IntelliJ
+layout: post
+title: 定制ideavim
+category: 开发工具
 
-### 基本配置
+--- 
+
+
+
+## 基本配置
 
 ```
 " clear the highlighted search result
@@ -65,7 +72,7 @@ nnoremap tp gT
 
 ```
 
-### 进阶配置
+## 进阶配置
 
 ```
 " built in search looks better
@@ -80,3 +87,6 @@ nnoremap <Space>fp :action ShowFilePath<CR>
 nnoremap <Space>pm :action ShowPopupMenu<CR>
 
 ```
+
+## 参考
+原文地址: [https://www.jianshu.com/p/ec6b4b4536aa](https://www.jianshu.com/p/ec6b4b4536aa)
