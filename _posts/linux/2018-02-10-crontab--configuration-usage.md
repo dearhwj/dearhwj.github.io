@@ -7,7 +7,7 @@ category: Linux
 --- 
 
 ## Crontab的格式说明
-![](images/crontab_format.jpg)
+![](/images/crontab_format.jpg)
 
 
 ## 查看Crontab日志的方法 
