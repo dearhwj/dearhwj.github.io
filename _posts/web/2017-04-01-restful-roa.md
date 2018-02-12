@@ -1,4 +1,9 @@
-# ROA(Resource-Oriented Architecture)面向资源的体系架构
+---
+layout: post
+title: ROA(Resource-Oriented Architecture)面向资源的体系架构
+category: WEB
+keywords: Restful
+---
 
 ##  服务端REST与SOAP的探讨
 原文地址:[http://blog.csdn.net/yanbober/article/details/45308935](http://blog.csdn.net/yanbober/article/details/45308935)
