@@ -1,9 +1,16 @@
-# Rsync的同步算法
+--
+layout: post
+title: Rsync的同步算法
+category: 算法
+keywords: Cuckoo Filter,
+---
 
-[https://coolshell.cn/articles/7425.html]
+
+## 正文
+
+原文地址 [https://coolshell.cn/articles/7425.html]
 
 
-### 滚动校验(Rolling Checksum
 
 Rsync中使用了一种滚动检验(Rolling Checksum)算法，用于快速计算数据块的检验值。它是一种弱校验算法，采用的是Mark Adler的adler-32校验，它的定义如下：
 
@@ -24,7 +31,7 @@ Rsync中使用了一种滚动检验(Rolling Checksum)算法，用于快速计算
 
 
 
-### 参考资料
+## 参考资料
 [从实际应用的角度看Rsync是如何工作的](http://edu.gimoo.net/u/20080910/4b8bc65c33216.shtml)
 [How Rsync Works A Practical Overview](https://rsync.samba.org/how-rsync-works.html)
 [rsync 的核心算法](http://www.cnblogs.com/itech/archive/2012/09/01/2667154.html)
