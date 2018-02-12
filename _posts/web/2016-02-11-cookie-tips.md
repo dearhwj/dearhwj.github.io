@@ -1,4 +1,12 @@
-# Cookie
+---
+layout: post
+title: Cookie
+category: WEB
+keywords: Cookie
+---
+
+## 正文
+
 [How do browser cookie domains work](http://stackoverflow.com/questions/1062963/how-do-browser-cookie-domains-work)
 
 	Mapping this knowledge onto your questions, the following should apply:

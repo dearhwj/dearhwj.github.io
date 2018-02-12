@@ -1,4 +1,12 @@
-# RESTFUL DESIGN
+---
+layout: post
+title: RESTFUL设计
+category: WEB
+keywords: RESTFUL
+---
+
+
+## RESTFUL DESIGN
 
 [HTTP幂等性概念和应用](http://coolshell.cn/articles/4787.html)
 
