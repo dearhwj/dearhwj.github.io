@@ -1,9 +1,8 @@
-
 --
-keywords: Design
 layout: post
 title: 设计师，你是做什么的？
 category: 产品和设计
+keywords: Design
 --- 
 ## 总结
 架构师也需要具备这方面的思维方式——把乱乱的问题解出来，寻找一个综合性的解决方案
