@@ -1,4 +1,9 @@
-# 重用Session提高https性能
+---
+layout: post
+title: 重用Session提高https性能
+category: WEB
+keywords: HTTPS
+---
 
 
 ## Session ID重用

@@ -1,4 +1,11 @@
-# 翻译：The Web API Checklist
+---
+layout: post
+title: 翻译：The Web API Checklist
+category: WEB
+keywords: WEB API
+---
+
+## 原文
 原文地址:[https://mathieu.fenniak.net/the-api-checklist/](https://mathieu.fenniak.net/the-api-checklist/)
 
 ## HTTP
