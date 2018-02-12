@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 什么是网站的跳出率
-category: Web
+category: WEB
 keywords: 跳出率
 ---
 
