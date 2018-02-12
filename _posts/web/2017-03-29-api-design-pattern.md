@@ -1,4 +1,12 @@
-# API设计方法论
+---
+layout: post
+title: API设计方法论
+category: WEB
+keywords: WEB API
+---
+
+## 正文
+ 
 1. API要容易使用，没有细节需要学习
 2. 灵活性。服务端可以修改控制业务
 3. 一致性。 A 24-hour news network can’t sort the list by race then notoriety.
@@ -7,5 +15,5 @@
 6. 能缓存。容易
 
 
-### 参考资料
+## 参考资料
 [Stop Designing Fragile Web APIs](https://mathieu.fenniak.net/stop-designing-fragile-web-apis/) 
