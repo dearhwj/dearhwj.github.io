@@ -1,4 +1,12 @@
-# DIV+CSS布局
+
+---
+layout: post
+title: DIV+CSS布局
+category: WEB
+keywords: CSS,DIV
+---
+
+## 正文
 
 [CSS实现DIV居中对齐 div居右对齐 div居左对齐](http://www.divcss5.com/jiqiao/j633.shtml)
 
