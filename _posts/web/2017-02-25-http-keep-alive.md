@@ -14,8 +14,8 @@ keywords: HTTP
 
 以当nginx设置了keepalive等待下一次的请求时，同时也会设置一个最大等待时间，这个时间是通过选项keepalive_timeout来配置的，如果配置为0，则表示关掉keepalive，此时，http版本无论是1.1还是1.0，客户端的connection不管是close还是keepalive，都会强制为close。
 
-![](https_ssl_shake_hand_1.png)
-![](https_ssl_shake_hand_2.png)
+![](/images/https_ssl_shake_hand_1.png)
+![](/images/https_ssl_shake_hand_2.png)
 
 图一和图二明显的差别就是第二次intl.aliyun.com的链接过程中没有了建立链接的步骤。
 
