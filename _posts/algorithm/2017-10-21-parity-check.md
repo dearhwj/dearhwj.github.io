@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: 奇偶校验
 category: 算法

@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: 查找表
 category: 算法
