@@ -1,10 +1,20 @@
-# 一致性hash算法（consistent hashing）
+--
+layout: post
+title: 一致性hash算法
+category: 算法
+keywords: 查找表
+---
+
+## 简介
 原文地址:[http://blog.csdn.net/sparkliang/article/details/5279393](http://blog.csdn.net/sparkliang/article/details/5279393)
 
 consistent hashing[算法](http://lib.csdn.net/base/datastructure "算法与数据结构知识库")早在1997年就在论文**[Consistent
 hashing and random trees](http://portal.acm.org/citation.cfm?id=258660)**中被提出，目前在cache系统中应用越来越广泛；
 
+
+
 ## 1基本场景
+
 
 比如你有N个cache服务器（后面简称cache），那么如何将一个对象object映射到N个cache上呢，你很可能会采用类似下面的通用方法计算object的hash值，然后均匀的映射到到N个cache；
 ```

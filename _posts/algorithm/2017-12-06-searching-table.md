@@ -1,5 +1,12 @@
-# 查找表
+--
+layout: post
+title: 查找表
+category: 算法
+keywords: 查找表
+---
 
+
+## 正文
 原文地址：[https://baike.baidu.com/item/%E6%9F%A5%E6%89%BE%E8%A1%A8](https://baike.baidu.com/item/%E6%9F%A5%E6%89%BE%E8%A1%A8)
 
 
