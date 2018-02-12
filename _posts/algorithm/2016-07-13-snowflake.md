@@ -4,6 +4,7 @@ title: Twitter的分布式自增ID算法Snowflake
 category: 算法
 keywords: Snowflake
 --- 
+
 ## 正文
 
 原文地址：[http://www.cppblog.com/tx7do/archive/2014/06/10/207248.html](http://www.cppblog.com/tx7do/archive/2014/06/10/207248.html)
