@@ -1,4 +1,11 @@
-# 灰度发布
+---
+layout: post
+title: 灰度发布
+category: WEB
+keywords: Nginx
+---
+
+## 参考
 
 [使用nginx+lua实现web项目的灰度发布](http://blog.csdn.net/dyllove98/article/details/9673825)
 

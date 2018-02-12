@@ -1,6 +1,12 @@
-# 利用Tengine/Nginx的accesslog做诊断
 
-发布时间：2016年4月12日
+
+---
+layout: post
+title: 利用Tengine/Nginx的accesslog做诊断
+category: WEB
+keywords: Tengine, Nginx
+---
+
 
 
 Nginx和Tengine会把HTTP访问的日志记录并输出到指定的目录,下面说说利用Tengine和Nginx的accesslog做诊断的一些用法
