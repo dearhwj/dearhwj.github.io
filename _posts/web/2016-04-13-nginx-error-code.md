@@ -1,4 +1,10 @@
-# Nginx/Tengine错误码
+---
+layout: post
+title: Nginx/Tengine错误码
+category: WEB
+keywords: Nginx, Tengine
+---
+
 Nginx/Tengine 的accesslog中会记录HTTP STATUS CODE。一些标准的HTTP STATUS CODE，例如502、503、504......这些大家应该都比较熟悉了。除此以外，Nginx/Tengine还有它自定义的STATUS CODE，这些CODE对于排查线上的故障非常有帮助
 
 ### STATUS CODE 499
