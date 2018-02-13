@@ -1,5 +1,11 @@
-# Python namedtuple 用法
+---
+layout: post
+title: Python namedtuple 用法
+category: Python
+keywords: namedtuple
+--- 
 
+## 正文
 原文地址:[http://www.jb51.net/article/87059.htm](http://www.jb51.net/article/87059.htm)
 
 namedtuple能够用来创建类似于元祖的数据类型，除了能够用索引来访问数据，能够迭代，更能够方便的通过属性名来访问数据。
