@@ -1,3 +1,11 @@
-# python asyncio
+---
+layout: post
+title: python asyncio
+category: Python
+keywords: asyncio
+--- 
 
-http://python.jobbole.com/87310/
+## 正文
+
+
+[http://python.jobbole.com/87310/](http://python.jobbole.com/87310/)

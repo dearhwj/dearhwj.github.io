@@ -1,4 +1,12 @@
-# Python父类构造函数初始化
+---
+layout: post
+title: Python父类构造函数初始化
+category: Python
+keywords: 构造函数
+--- 
+
+## 正文
+
 原文地址:[http://blog.csdn.net/xiemanR/article/details/69390187?locationNum=6&fps=1](http://blog.csdn.net/xiemanR/article/details/69390187?locationNum=6&fps=1)
 
 

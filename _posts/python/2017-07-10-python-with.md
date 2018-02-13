@@ -1,4 +1,12 @@
-# Python中yield与with的配合
+---
+layout: post
+title: Python中yield与with的配合
+category: Python
+keywords: 构造函数
+--- 
+
+
+## 正文
 原文[http://blog.csdn.net/u013213434/article/details/42554161](http://blog.csdn.net/u013213434/article/details/42554161)
 
 yield的作用是使所在的函数变成一个生成器，可以用next()函数来执行，并在遇到yield后中断，再次调用next()的时候，函数接着上次执行，并在遇到yield后再次中断。如果执行到最后没有yield语句了，就会抛出一个StopIteration的异常。关于yield的资料，网上有很多，大家可以自行搜索。
