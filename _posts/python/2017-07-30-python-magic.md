@@ -1,4 +1,11 @@
-# Python的魔幻语法
+---
+layout: post
+title: Python的魔幻语法
+category: Python
+keywords: 构造函数
+--- 
+
+
 
 ## magic and/or
 
