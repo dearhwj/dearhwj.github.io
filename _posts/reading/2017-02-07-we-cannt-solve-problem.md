@@ -1,4 +1,10 @@
-# 我们不能在创造问题的思维层面去思考解决方法
+---
+layout: post
+title: 我们不能在创造问题的思维层面去思考解决方法
+category: 阅读
+keywords: 思维
+---
+## 原文 
 如何理解we can't solve problems by using the same kind of thinking we used when we create them?
 
 
