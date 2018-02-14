@@ -1,8 +1,8 @@
 ---
-keywords: ideavim,IntelliJ
+keywords: 创业
 layout: post
 title: 罗永浩分享锤子科技六年创业感悟
-category: 开发工具
+category: 商业
 
 --- 
 
