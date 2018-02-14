@@ -1,4 +1,12 @@
-# 转：哈佛大学推荐20个快乐的习惯
+---
+layout: post
+title: 哈佛大学推荐20个快乐的习惯
+category: 阅读
+keywords: 快乐
+---
+
+## 原文
+
 原文地址：[http://www.sohu.com/a/7648733_112799](http://www.sohu.com/a/7648733_112799)
 
 1. Be grateful. 要学会感恩。
