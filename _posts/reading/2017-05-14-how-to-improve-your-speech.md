@@ -1,5 +1,14 @@
-# 如何提高演讲能力？
+---
+layout: post
+title: 如何提高演讲能力
+category: 阅读
+keywords: 演讲
+---
+
+
+## 原文
 原文地址:[https://www.zhihu.com/question/19552509](https://www.zhihu.com/question/19552509)
+
 ## 回答1 
 1. 一个干净利落的开场白至关重要
 2. 你讲的所有故事都是为了服务你的观点
