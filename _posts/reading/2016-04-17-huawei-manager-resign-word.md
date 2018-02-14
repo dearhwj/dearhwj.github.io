@@ -2,7 +2,7 @@
 layout: post
 title: 华为副总裁的离职信
 category: 阅读
-keywords: 立志
+keywords: 职场
 ---
 
 ## 原文

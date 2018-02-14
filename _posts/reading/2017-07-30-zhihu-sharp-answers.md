@@ -1,4 +1,12 @@
-# 转：知乎上的神回复
+---
+layout: post
+title: 转：知乎上的神回复
+category: 阅读
+keywords: 生活
+---
+
+## 原文
+
 原文：[http://blog.sina.com.cn/s/blog_67f19e830102wa4w.html](http://blog.sina.com.cn/s/blog_67f19e830102wa4w.html)
 
 
