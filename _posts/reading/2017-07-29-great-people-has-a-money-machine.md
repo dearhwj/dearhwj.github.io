@@ -1,4 +1,10 @@
-# 转载：厉害的人，都有一个赚钱机器
+---
+layout: post
+title: 厉害的人，都有一个赚钱机器
+category: 阅读
+keywords: 成功
+---
+## 原文
 原文地址:[http://finance.jrj.com.cn/tech/2017/07/14111622749022.shtml](http://finance.jrj.com.cn/tech/2017/07/14111622749022.shtml)
 
 
