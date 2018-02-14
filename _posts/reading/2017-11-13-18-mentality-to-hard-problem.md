@@ -1,4 +1,11 @@
-# 面对问题的18种心态
+---
+layout: post
+title: 面对问题的18种心态
+category: 阅读
+keywords: 解决问题
+---
+## 原文
+
 原文地址:[http://www.xinli001.com/info/100300628](http://www.xinli001.com/info/100300628)
 
 

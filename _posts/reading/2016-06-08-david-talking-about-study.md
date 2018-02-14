@@ -2,7 +2,7 @@
 layout: post
 title: 大卫谈学习
 category: 阅读
-keywords: 成功
+keywords: 学习
 ---
 ## 原文
 

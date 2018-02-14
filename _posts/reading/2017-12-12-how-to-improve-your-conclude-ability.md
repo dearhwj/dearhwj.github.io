@@ -2,7 +2,7 @@
 layout: post
 title: 如何提高自己的归纳总结能力
 category: 阅读
-keywords: 曾国藩
+keywords: 归纳能力
 ---
 
 
