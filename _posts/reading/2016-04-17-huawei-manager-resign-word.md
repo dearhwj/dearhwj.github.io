@@ -1,4 +1,12 @@
-# 华为副总裁的离职信
+---
+layout: post
+title: 华为副总裁的离职信
+category: 阅读
+keywords: 立志
+---
+
+## 原文
+
 原文:[http://wenku.baidu.com/view/c7be9baea58da0116d174900.html?from=search](http://wenku.baidu.com/view/c7be9baea58da0116d174900.html?from=search)
 
 一、“从小事做起，学会吃亏，与他人合作”
