@@ -2,7 +2,7 @@
 layout: post
 title: 比尔盖茨哈佛毕业演讲稿
 category: 阅读
-keywords: 偏见
+keywords: 比尔盖茨
 ---
 
 
