@@ -1,4 +1,12 @@
-# 一个人不成功的九大根源
+---
+layout: post
+title: 一个人不成功的九大根源
+category: 阅读
+keywords: 成功
+---
+
+
+## 原文
 原文地址:[http://www.sohu.com/a/130225679_263553](http://www.sohu.com/a/130225679_263553)
 
 ### 犹豫不决
