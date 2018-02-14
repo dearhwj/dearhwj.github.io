@@ -3,7 +3,6 @@ keywords: 创业
 layout: post
 title: 罗永浩分享锤子科技六年创业感悟
 category: 商业
-
 --- 
 
 ## 总结
