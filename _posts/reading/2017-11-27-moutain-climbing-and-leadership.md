@@ -2,7 +2,7 @@
 layout: post
 title: 登山对领导力的明悟
 category: 阅读
-keywords: 成功
+keywords: 领导力
 ---
 
 ## 原文

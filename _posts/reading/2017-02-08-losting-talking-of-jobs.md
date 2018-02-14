@@ -1,4 +1,11 @@
-# 乔布斯：遗失的访谈 
+---
+layout: post
+title: 乔布斯：遗失的访谈 
+category: 阅读
+keywords: 乔布斯
+---
+
+## 原文
 
 文字版来源1:[http://www.cnblogs.com/fjwuyongzhi/archive/2013/05/04/3060240.html](http://www.cnblogs.com/fjwuyongzhi/archive/2013/05/04/3060240.html)
 
