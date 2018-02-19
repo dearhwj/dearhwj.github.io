@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 架构必要性普遍原则以及原则之间的依赖关系
-category: 架构
+category: 软件架构和设计
 keywords: 架构
 ---
 

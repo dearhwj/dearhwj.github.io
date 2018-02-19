@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 23种经典设计模式
-category: 架构和设计
+category: 软件架构和设计
 keywords: 设计模式
 ---
 
