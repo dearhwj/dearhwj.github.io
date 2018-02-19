@@ -21,6 +21,8 @@ keywords: 设计模式
 
 5. Singleton（单例）
 
+* 抽象工厂模式和工厂模式的区别:[https://www.zhihu.com/question/20367734](https://www.zhihu.com/question/20367734)
+
 
 
 ### 结构型
