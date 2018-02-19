@@ -27,14 +27,15 @@ while files:
     else:
         file_path = source_path +"/"+ file_name
 
+    if os.path.isdir(file_path):
+        continue
 
     if  file_name.endswith(".md"):
         stat = os.stat(file_path)
         if file_name.startswith("."):
             continue
 
-        if os.path.isdir(file_path):
-            continue
+
 
     # print(file_path, os.path.isdir(file_path))
 
