@@ -2,7 +2,7 @@
 layout: post
 title: 你的生活逃不出这25张图
 category: 阅读
-keywords: 成功
+keywords: 定律、哲理
 ---
 
 ## 正文
