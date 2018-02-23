@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 你有你钟爱的编程格言吗？
+title: 这里有你钟爱的编程格言吗？
 category: 软件架构和设计
 keywords: 编程格言
 ---
