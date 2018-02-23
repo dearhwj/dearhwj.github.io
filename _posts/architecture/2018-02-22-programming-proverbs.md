@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 极简的生活Style
-category: 阅读
+title: 编程格言
+category: 软件架构和设计
 keywords: 编程格言
 ---
 ## 每个程序员都该知道的10大编程格言
