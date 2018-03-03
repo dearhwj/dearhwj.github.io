@@ -5,7 +5,7 @@ category: 阅读
 keywords: 爱因斯坦
 ---
 
-![](/images/einstain.jpg)
+![](/images/einstein.jpg)
 
 ## 经典语录
 * 态度上的弱点会变成性格上的弱点。
