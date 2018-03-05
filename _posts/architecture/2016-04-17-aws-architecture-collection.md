@@ -2,7 +2,7 @@
 layout: post
 title: 亚马逊的架构
 category: 软件架构和设计
-keywords: AWS
+keywords: AWS,Amazon
 ---
 
 ## 总结
