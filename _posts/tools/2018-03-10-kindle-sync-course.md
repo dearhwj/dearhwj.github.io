@@ -1,7 +1,7 @@
 ---
 keywords: 信息聚焦
 layout: post
-title: 用电子邮箱推送电子书
+title: 用电子邮箱推送Kindle电子书
 category: 工具和效率
 --- 
 
