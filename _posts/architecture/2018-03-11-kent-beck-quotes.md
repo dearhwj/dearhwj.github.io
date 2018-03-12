@@ -28,3 +28,7 @@ category: 软件架构和设计
 18. If I have the same logic in two places, I work with the design to understand how I can have only one copy. Designs without duplication tend to be easy to change
 19. Pair programmers: Keep each other on task. Brainstorm refinements to the system. Clarify ideas. Take initiative when their partner is stuck, thus lowering frustration. Hold each other accountable to the team's practices. Pairing
 20. Sit Together Develop in an open space big enough for the whole team. Meet the need for privacy and "owned" space by having small private spaces nearby or by limiting work hours so team members can get their privacy needs met elsewhere.s
+
+
+### 参考
+[https://www.goodreads.com/author/quotes/25211.Kent_Beck](https://www.goodreads.com/author/quotes/25211.Kent_Beck)
