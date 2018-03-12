@@ -3,6 +3,8 @@ keywords: 编程格言,Kent Beck
 layout: post
 title: Kent Beck的编程格言
 category: 软件架构和设计
+---
+
 
 ## 正文
 1. 软件设计者应该是分离应该分离事物，而不是将本应一起考虑的事情进行分离。

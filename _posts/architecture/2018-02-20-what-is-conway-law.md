@@ -26,3 +26,5 @@ Mel Conway 在 1967 年提出了所谓康威法则，指出组织架构和系统
 ![](/images/organization-structure-and-architecture.jpg)
 ### 参考资料
 [企业的组织架构是如何影响技术架构的？](http://www.infoq.com/cn/articles/organization-arch-influence-technology-arch)
+
+[微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611)
