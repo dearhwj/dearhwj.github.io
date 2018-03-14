@@ -7,6 +7,8 @@ keywords: 软件架构
 
 ## 正文
 
+原文地址:[https://www.cnblogs.com/feng9exe/p/8232655.html](https://www.cnblogs.com/feng9exe/p/8232655.html)
+
 	快看！看！深入研究自然，你就会明白一切。 - 爱因斯坦
 
 复杂性是被低估的。复杂越高，开发人员会感到不安。对其的理解认知负荷代价就越高，我们就更不快乐。真正的挑战是在构建我们的系统时要保持其有序以及工程师的生产方式。对于这一点，一个简单的物理规律可以帮助我们：构造定律 the Constructal Law.
