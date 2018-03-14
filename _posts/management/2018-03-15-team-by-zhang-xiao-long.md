@@ -4,7 +4,6 @@ layout: post
 title: 张小龙提到团队的理念
 category: 管理
 ---
-
 ## 正文
 
 1. 做对用户有价值的事情。
