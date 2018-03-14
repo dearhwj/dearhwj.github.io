@@ -1,7 +1,7 @@
 ---
 keywords: 框架
 layout: post
-title: # “框架”论述摘录
+title:  “软件框架”论述摘录
 category: 管理
 ---
 ## 正文
