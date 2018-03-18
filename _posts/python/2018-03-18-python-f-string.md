@@ -1,7 +1,7 @@
 ---
 keywords: Python
 layout: post
-title: Python没有++运算符，这个事情原来不像仅仅是没有这个运算符那么简单
+title: Python F-strings
 category: Python
 ---
  
@@ -12,3 +12,7 @@ python 中，变量是以内容为基准而不是像 c 中以变量名为基准�
 这样的设计逻辑决定了 python 中数字类型的值是不可变的，因为如果如上例，a 和 b 都是 5，当你改变了 a 时，b 也会跟着变，这当然不是我们希望的
 
 因此，正确的自增操作应该 a = a + 1 或者 a += 1，当此 a 自增后，通过 id() 观察可知，id 值变化了，即 a 已经是新值的名称
+
+
+## 参考
+[探索Python F-strings是如何工作](https://baijiahao.baidu.com/s?id=1577300315206216006&wfr=spider&for=pc)
