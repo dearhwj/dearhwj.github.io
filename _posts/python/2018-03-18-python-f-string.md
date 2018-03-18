@@ -1,18 +1,21 @@
 ---
 keywords: Python
 layout: post
-title: Python F-strings
+title: Python3.6的新特性f-strings终于让Python的字符串连接优美了
 category: Python
 ---
  
 ## 正文
-原文地址[http://blog.csdn.net/somehow1002/article/details/73744626](http://blog.csdn.net/somehow1002/article/details/73744626)
- 
-python 中，变量是以内容为基准而不是像 c 中以变量名为基准，所以只要你的数字内容是5，不管你起什么名字，这个变量的 ID 是相同的，同时也就说明了 python 中一个变量可以以多个名称访问
-这样的设计逻辑决定了 python 中数字类型的值是不可变的，因为如果如上例，a 和 b 都是 5，当你改变了 a 时，b 也会跟着变，这当然不是我们希望的
+f-strings
+要使用f-strings，只需在字符串前加上f，语法格式如下：
+```
+f ' <text> { <expression> <optional !s, !r, or !a> <optional : format specifier> } <text> ... '
+```
 
-因此，正确的自增操作应该 a = a + 1 或者 a += 1，当此 a 自增后，通过 id() 观察可知，id 值变化了，即 a 已经是新值的名称
-
+* 支持表达式
+* 排版格式
+* 数字操作
 
 ## 参考
 [探索Python F-strings是如何工作](https://baijiahao.baidu.com/s?id=1577300315206216006&wfr=spider&for=pc)
+[Python3.6新的字符串格式化语法](https://imliyan.com/blogs/article/Python3.6%E6%96%B0%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96%E8%AF%AD%E6%B3%95/)
