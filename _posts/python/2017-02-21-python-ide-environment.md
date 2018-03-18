@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python IDE设置
-category: 算法
+category: Python
 keywords: Python
 ---
 
