@@ -28,3 +28,4 @@ category: 软件架构和设计
 
 ### 参考文档
 [https://www.cnblogs.com/wx1991/archive/2012/11/11/2765590.html](https://www.cnblogs.com/wx1991/archive/2012/11/11/2765590.html)
+[https://en.wikipedia.org/wiki/Big_ball_of_mud](https://en.wikipedia.org/wiki/Big_ball_of_mud)
