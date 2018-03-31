@@ -1,6 +1,6 @@
 
 ---
-keywords: 复杂性
+keywords: 表达
 layout: post
 title: 如何把一件事讲得言简意赅
 category: 阅读
