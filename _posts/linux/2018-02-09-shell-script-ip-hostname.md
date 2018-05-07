@@ -3,7 +3,6 @@ keywords: hostname,ifconfig
 layout: post
 title: Shell脚本增加主机名IP绑定
 category: Linux
-
 --- 
 
 ## 原文
