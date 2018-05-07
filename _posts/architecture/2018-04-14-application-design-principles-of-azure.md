@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure 应用程序的设计原则
-category: 系统架构
+category: 软件架构和设计
 keywords: 应用架构设计
 ---
 
