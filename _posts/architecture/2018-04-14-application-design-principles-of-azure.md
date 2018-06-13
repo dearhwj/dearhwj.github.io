@@ -6,7 +6,7 @@ keywords: 应用架构设计
 ---
 
 ## 正文
-原文地址:[https://docs.microsoft.com/zh-cn/azure/architecture/guide/design-principles/index]
+原文地址:[https://docs.microsoft.com/zh-cn/azure/architecture/guide/design-principles/index](https://docs.microsoft.com/zh-cn/azure/architecture/guide/design-principles/index)
 
 遵循这些设计原则可以提高应用程序的可伸缩性、复原能力和易管理性。
 
