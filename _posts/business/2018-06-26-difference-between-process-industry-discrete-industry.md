@@ -53,4 +53,8 @@ keywords: 流程行业,离散行业
 
 而离散制造业一般对这种要求并不十分强调，虽然现在很多离散制造业企业也在逐渐完善批号跟踪管理
 
+----
+
+原文地址 [https://wenku.baidu.com/view/71749cfe5f0e7cd18525364a.html](https://wenku.baidu.com/view/71749cfe5f0e7cd18525364a.html)
+
 
