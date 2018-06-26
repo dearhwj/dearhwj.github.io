@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 架构师的难题——知道和控制
-category: 流程行业与离散行业的差别
+title: 流程行业和离散行业的区别
+category: 商业
 keywords: 流程行业,离散行业
 ---
 
