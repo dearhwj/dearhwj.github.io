@@ -2,7 +2,6 @@
 layout: post
 title: 《无印良品管理笔记》阅读笔记
 category: 管理
-
 ---
 
 ## 对未来和个人的思考
