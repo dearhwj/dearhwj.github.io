@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 流程行业和离散行业的区别
-category: 商业
+category: 智能制造
 keywords: 流程行业,离散行业
 ---
 

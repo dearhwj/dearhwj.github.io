@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 价值流
-category: 商业
+category: 智能制造
 keywords: 价值流
 ---
 
