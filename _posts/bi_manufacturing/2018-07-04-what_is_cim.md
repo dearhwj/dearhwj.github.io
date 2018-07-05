@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: CIM （计算机集成制造）
+title: CIM(计算机集成制造)
 category: 智能制造
 keywords: 
 ---
