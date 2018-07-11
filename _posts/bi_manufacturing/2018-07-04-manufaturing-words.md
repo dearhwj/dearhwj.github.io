@@ -11,3 +11,10 @@ keywords:
 |---|---|---|---|
 |供应链||Supply Chain||
 |计算机集成制造|CIM|Computer Integrated Manu-facturing|
+||PRM|Purdue reference model|
+||MRP|Materials requirements planning|
+||MOM|Manufacturing operations management|
+||MO&C|Manufacturing operations and control domain|
+||MESA|Manufacturing Enterprise System Solutions Association|
+||COA|Certificate of analysis|
+|DCC|digital capability center|数字能力中心|
