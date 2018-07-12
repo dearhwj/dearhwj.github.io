@@ -1,9 +1,8 @@
 ---
 keywords: 2B,2C
 layout: post
-title: To B 业务 VS To C 业务
+title: 《曾鸣：在未来五年，S2b是最有可能领先的商业模式》阅读笔记
 category: 商业
-
 --- 
 
 ## 笔记
