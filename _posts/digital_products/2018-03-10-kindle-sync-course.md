@@ -1,8 +1,8 @@
 ---
-keywords: 信息聚焦
+keywords: kindle
 layout: post
 title: 用电子邮箱推送Kindle电子书
-category: 工具和效率
+category: 数码产品
 --- 
 
 
