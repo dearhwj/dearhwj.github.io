@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 边缘计算+IoT云平台解决方案
-category: 阅读
+category: 智能制造
 ---
 
 ## 什么是边缘计算
