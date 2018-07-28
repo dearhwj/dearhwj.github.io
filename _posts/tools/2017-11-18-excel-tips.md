@@ -1,6 +1,17 @@
 # Excel Tips
 
+---
+layout: post
+title: Excel Tips
+category: 工具和效率
+keywords: Excel 
+---
+
+
+
 ### 基本操作
+[excel如何快速移动整列](https://jingyan.baidu.com/article/fc07f98954bf2c12ffe51994.html)
+
 
 [Excel表格怎样整体移动一行或一列](https://jingyan.baidu.com/article/59a015e3ae8f11f79588656b.html)
 
