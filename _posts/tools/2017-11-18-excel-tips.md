@@ -1,5 +1,3 @@
-# Excel Tips
-
 ---
 layout: post
 title: Excel Tips
