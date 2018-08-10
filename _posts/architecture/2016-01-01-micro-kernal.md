@@ -1,4 +1,12 @@
-# Micro Kernal
+---
+layout: post
+title: 微内核Micro Kernal
+category: 软件架构和设计
+keywords: 微服务,Micro Kernal
+---
+
+
+## Micro Kernal
 [宏内核与微内核，Linux内核与Unix内核]("http://19831028.blog.51cto.com/1333653/390507/")
 
 	单内核（Monolithic kernel）――单内核是个很大的进程。他的内部又能够被分为若干模块（或是层次或其他）。但是在运行的时候，他是个单独的二进制大映象。其模块间的通讯是通过直接调用其他模块中的函数实现的，而不是消息传递。
