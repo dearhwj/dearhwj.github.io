@@ -60,6 +60,9 @@ keywords: Actor
 3. 位置透明–无论Actor地址是在本地还是在远程机上对于代码来说都是一样的
 4. 轻量性–Actor是非常轻量的计算单机，单个Actor仅占400多字节，只需少量内存就能达到高并发
 
+### 参考资料
+[Actor模型原理](https://www.cnblogs.com/MOBIN/p/7236893.html)
+
 
 
 
