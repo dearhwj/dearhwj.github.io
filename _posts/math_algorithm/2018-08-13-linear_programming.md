@@ -2,7 +2,7 @@
 layout: post
 title: 线性规划
 category: 数学和算法
-keywords: 超集,子集
+keywords: 线性规划
 ---
 
 
