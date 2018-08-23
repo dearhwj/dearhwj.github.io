@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Actor模型官方Java Demo
-category: 软件架构和设计
+category: JAVA
 keywords: Actor
 ---
 
