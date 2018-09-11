@@ -2,7 +2,7 @@
 layout: post
 title:  Java 8 新特性-Lambda 表达式 
 category: JAVA
-keywords: Actor
+keywords: Lambda
 ---
 
 ## 什么是Lambda 表达式
