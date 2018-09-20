@@ -1,4 +1,11 @@
-# Idea Mybatis 插件
+---
+layout: post
+title: Idea Mybatis 插件
+category: 开发工具
+keywords: IntelliJ,Mybatis
+--- 
+
+## 正文
 分享一个idea mybatis的开发插件可以提升mybatis的开发效率，不过这个plugin是收费的，baidu一下也能找到你想要的......
 
 ***Intellij Idea Mybatis插件主要功能：***
