@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 设备运转率
