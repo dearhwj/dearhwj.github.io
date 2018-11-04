@@ -6,12 +6,12 @@ keywords: 技术管理
 ---
 
 ## 正文
-![](tech_manangement_measure_table.jpg)
+![](/images/tech_manangement_measure_table.jpg)
 
 
 
 
-![](tech_manangement_self_improvement.jpg)
+![](/images/tech_manangement_self_improvement.jpg)
 ### 一、技术
 
 首先要懂技术，最好是程序员出身，并且写过代码，否则你的技术道路会很坎坷，并且一路走来备受质疑，毕竟像阿里巴巴CTO王坚这样的例子，凤毛麟角，不具备普世参考价值。其次，要忘掉技术，站在商业的角度思考技术与业务的融合，为企业创造价值。
