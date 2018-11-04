@@ -1,13 +1,13 @@
 
 ---
 layout: post
-title: 《知乎：如何让公司员工达到群体性努力
+title: 知乎：如何让公司员工达到群体性努力
 category: 管理
 keywords: 技术管理
 ---
 
 
-# 原文
+## 原文
 原文地址:[https://www.zhihu.com/question/19924437](https://www.zhihu.com/question/19924437)
 
 ## 观点1
