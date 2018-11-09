@@ -2,7 +2,9 @@
 layout: post
 title: 供应链各个层次的产能管理方法
 category: 智能制造
+keywords: 产能管理
 ---
+
 
 
 ## 正文

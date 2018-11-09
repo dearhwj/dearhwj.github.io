@@ -2,6 +2,7 @@
 layout: post
 title: SAP MRP的计算步骤
 category: 智能制造
+keywords: MRP
 ---
 
 ## 正文

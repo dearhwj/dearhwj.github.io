@@ -2,6 +2,7 @@
 layout: post
 title: 《生产计划》阅读笔记
 category: 智能制造
+keywords: 生产计划
 ---
 
 ## 概念和定义
