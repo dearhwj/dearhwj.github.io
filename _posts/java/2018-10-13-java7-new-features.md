@@ -2,7 +2,7 @@
 layout: post
 title: Java 7的新特性
 category: JAVA
-keywords: Actor
+keywords: JAVA7
 ---
 
 ## 正文
