@@ -118,6 +118,20 @@ public class Main {
 
 ```
 
+JAV8方法引用有三类：
+
+* 指向静态方法的方法引用(例如Integer的parseInt方法，写作Integer::parseInt)。
+* 指向任意类型实例方法的方法引用(例如String的length方法，写作 String::length)。
+* 指向现有对象的实例方法的方法引用(假设你有一个局部变量expensiveTransaction 用于存放Transaction类型的对象，它支持实例方法getValue，那么你就可以写expensiveTransaction::getValue)。
+
+Java8构造函数引用
+* 假设有一个构造函数没有参数。 它适合Supplier的签名() -> Apple
+* 如果你的构造函数的签名是Apple(Integer weight)，那么它就适合Function接口的签名
+* 如果你有一个具有两个参数的构造函数Apple(String color, Integer weight)，那么
+它就适合BiFunction接口的签名
+
+对于一个现有构造函数，你可以利用它的名称和关键字new来创建它的一个引用: ClassName::new。它的功能与指向静态方法的引用类似
+
 
 Java8中常用的函数式接口：
 
