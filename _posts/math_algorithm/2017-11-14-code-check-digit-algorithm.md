@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 代码校验位及其计算方法
