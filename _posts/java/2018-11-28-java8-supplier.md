@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JAVA8 Supplier接口
+title: JAVA 8的新特性Supplier接口
 category: JAVA
 keywords: JAVA8
 ---
