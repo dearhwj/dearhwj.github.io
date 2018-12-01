@@ -208,7 +208,38 @@ System.out.println(deptEmpCount3)
 {Sales=2, IT=2, Benefits=1}
 ```
 
+### Divide a list to lists of n size 
 
+原文地址:[https://e.printstacktrace.blog/2017/09/divide-a-list-to-lists-of-n-size-in-Java-8/](https://e.printstacktrace.blog/2017/09/divide-a-list-to-lists-of-n-size-in-Java-8/)
+
+转换的效果如下
+
+```
+[1,2,3,4,5,6,7] -> [[1,2], [3,4], [5,6], [7]]
+```
+
+代码比较简单，通过一个自增的index，通过取余数来分组
+
+```
+
+final class Java8StreamPartitionExample {
+
+    public static void main(String[] args) {
+        final List<Integer> list = Arrays.asList(1,2,3,4,5,6,7);
+
+        System.out.println(partition(list, 2));  // [[1, 2], [3, 4], [5, 6], [7]]
+        System.out.println(partition(list, 3));  // [[1, 2, 3], [4, 5, 6], [7]]
+    }
+
+    private static  <T> Collection<List<T>> partition(List<T> list, int size) {
+        final AtomicInteger counter = new AtomicInteger(0);
+
+        return list.stream()
+                .collect(Collectors.groupingBy(it -> counter.getAndIncrement() / size))
+                .values();
+    }
+}
+```
 
 
 ## 参考

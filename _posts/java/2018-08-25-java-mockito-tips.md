@@ -1,10 +1,44 @@
 ---
 layout: post
-title:  Mockito使用Tips
+title:  JAVA单元测试之Mock
 category: JAVA
-keywords: Mockito
+keywords: Mockito, PowerMockito
 ---
 ## 收集
+
+### Mock Final Classes and Methods with Mockito
+原文地址:[https://www.baeldung.com/mockito-final](https://www.baeldung.com/mockito-final)
+
+很诡异的地方要在src/test/resources/mockito-extensions下放一个文件org.mockito.plugins.MockMaker 
+还有在里面加入一行
+
+```
+mock-maker-inline
+```
+
+### 使用PowerMockito 对静态类进行mock
+原文地址:[https://www.cnblogs.com/lianshan/p/6930771.html](https://www.cnblogs.com/lianshan/p/6930771.html)
+
+```
+@RunWith(PowerMockRunner.class)  //1.
+@PrepareForTest({LogUtil.class}) //2.
+public class AddressBookServiceTest_mock {
+ 
+ 
+    @Before
+    public void setUp() {
+        MockitoAnnotations.initMocks(this);
+    }
+ 　 @Test
+    public void test_staticMethod_PowerMock()  {
+        //绕过静态类
+        PowerMockito.mockStatic(LogUtil.class);//3.绕过静态类
+        when(LogUtil.getLogBean(json)).thenReturn(new SensitiveInfoOperationLog());//4.预设静态类返回值
+        String response = addressBookServiceImpl.queryAddressBookFuzzy(json);
+    }
+}
+
+```
 
 ### java.lang.NoSuchMethodError: org.hamcrest.Matcher.describeMismatch处理
 
