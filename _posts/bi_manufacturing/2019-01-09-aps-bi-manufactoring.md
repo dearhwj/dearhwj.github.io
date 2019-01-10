@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 智能制造关键软件之一-----APS智能排产系统
+title: 智能制造关键软件之一APS智能排产系统
 category: 智能制造
 ---
 
