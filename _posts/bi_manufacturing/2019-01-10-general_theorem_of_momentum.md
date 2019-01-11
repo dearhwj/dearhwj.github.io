@@ -6,6 +6,7 @@ category: 智能制造
 ## 正文
 
 原文地址：[https://www.jianshu.com/p/aeff64fa9dfc](https://www.jianshu.com/p/aeff64fa9dfc)
+
 广义动量定理包括6要素，分别为：
 * 广义质量M（M又可细分为数量n和质量m）
 * 广义速度V，
