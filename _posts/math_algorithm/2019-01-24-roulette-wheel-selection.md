@@ -15,7 +15,7 @@ keywords: 轮盘赌法
 ……   
 3.当i=N时截止。
 
-```hljs
+```
 int RWS() {
     double m = 0;
     double r = (double)rand()/RAND_MAX; //r为0至1的随机数
@@ -32,7 +32,7 @@ int RWS() {
 
 ## 测试代码
 
-```hljs
+```
 #include<iostream>
 #include<cstdio>
 #include<cstring>
