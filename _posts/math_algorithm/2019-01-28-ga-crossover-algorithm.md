@@ -43,3 +43,4 @@ keywords: 交叉方法,遗传算法
 
 ## 参考资料
 1. [遗传算法中交叉方法简介及基于适应度的启发式多点交叉](https://blog.csdn.net/xujinpeng99/article/details/8982126)
+2. [遗传算法中几种交叉算子小结](https://blog.csdn.net/u012750702/article/details/54563515)
