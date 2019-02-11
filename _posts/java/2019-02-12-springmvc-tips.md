@@ -11,4 +11,6 @@ keywords: Spring MVC
 
 * @GetMapping是一个组合注解 是@RequestMapping(method = RequestMethod.GET)的缩写
 * @PostMapping是一个组合注解 是@RequestMapping(method = RequestMethod.POST)的缩写
-
+* @PostMapping @requestmapping+post请求方法组合
+* @putmapping
+* @Deletemapping
