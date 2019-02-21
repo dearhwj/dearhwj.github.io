@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 日志使用规范
-category: 开发
+category: 开发和测试
 keywords: 
 ---
 
