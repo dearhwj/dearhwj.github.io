@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 贪心算法
-category: 算法
+category: 数学和算法
 keywords: 贪心算法
 ---
 
