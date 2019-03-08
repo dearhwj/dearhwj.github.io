@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LCS算法求最长公共子串
-category: 算法
+category: 数学和算法
 keywords: LCS
 ---
 

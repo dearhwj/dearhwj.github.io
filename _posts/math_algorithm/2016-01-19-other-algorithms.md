@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 其他算法
-category: 算法
+category: 数学和算法
 keywords: Cuckoo Filter,
 ---
 

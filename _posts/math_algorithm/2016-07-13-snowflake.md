@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twitter的分布式自增ID算法Snowflake
-category: 算法
+category: 数学和算法
 keywords: Snowflake
 --- 
 

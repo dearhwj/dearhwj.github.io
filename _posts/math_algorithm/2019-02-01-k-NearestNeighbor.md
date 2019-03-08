@@ -1,7 +1,7 @@
 ---
 layout: post
 title: k近邻算法-java实现
-category: 算法
+category: 数学和算法
 keywords: 锦标赛选择法
 ---
 

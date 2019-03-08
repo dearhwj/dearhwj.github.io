@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 相识性度量算法
-category: 算法
+category: 数学和算法
 keywords: 欧式距离
 ---
 ## 正文

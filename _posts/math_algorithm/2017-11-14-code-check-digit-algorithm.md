@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 代码校验位及其计算方法
-category: 算法
+category: 数学和算法
 keywords: VIN
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 遗传算法-锦标赛选择法
-category: 算法
+category: 数学和算法
 keywords: 锦标赛选择法
 ---
 

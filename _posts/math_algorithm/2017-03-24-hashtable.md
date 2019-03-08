@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 哈希表
-category: 算法
+category: 数学和算法
 keywords: Hash,哈希
 ---
 

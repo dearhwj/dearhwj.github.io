@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 遗传算法-遗传算法中交叉方法简介
-category: 算法
+category: 数学和算法
 keywords: 交叉方法,遗传算法
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 查找表
-category: 算法
+category: 数学和算法
 keywords: 查找表
 ---
 

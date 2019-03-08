@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloom Filter算法
-category: 算法
+category: 数学和算法
 keywords: Bloom Filter
 ---
 

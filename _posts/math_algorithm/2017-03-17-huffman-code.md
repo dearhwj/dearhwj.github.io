@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HUFFMAN编码压缩算法
-category: 算法
+category: 数学和算法
 keywords: HUFFMAN
 ---
 
