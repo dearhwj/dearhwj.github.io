@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  常见内存分配算法：首次适应算法（FirstFit）循环首次适应算法（NextFit）最佳适应算法（BestFit）最坏适应算法（WorstFit）
-category: 智能制造
+category: 数学和算法
 keywords: FirstFit, NextFit, BestFit, WorstFit
 ---
 
