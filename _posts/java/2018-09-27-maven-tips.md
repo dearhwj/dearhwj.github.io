@@ -129,6 +129,12 @@ keywords: Maven
 
 ### Tips
 
+#### Maven更新父子模块的版本号
+[https://www.cnblogs.com/ilovexiao/p/5663761.html](https://www.cnblogs.com/ilovexiao/p/5663761.html)
+
+	>mvn versions:set -DnewVersion=0.0.2-SNAPSHOT
+	>mvn versions:update-child-modules
+
 #### Maven Dependency Scope
 
 	Transitive dependencies which are compile and runtime scoped usually affect a project regardless of the scope of a direct dependency. Transitive dependencies which are compile scoped will have the same scope regardless of the scope of the direct dependency. Transitive dependencies which are runtime scoped will generally have the same scope of the direct dependency except when the direct dependency has a scope of compile. When a transitive dependency is runtime scoped and a direct is compile scoped the direct dependency the transitive dependency will have an effective scope of runtime.
