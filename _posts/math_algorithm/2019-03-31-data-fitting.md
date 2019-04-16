@@ -16,7 +16,7 @@ keywords: 数据拟合,曲线拟合
 如果把多次式的次数增加到2
 
 
-![](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D109/sign=a49d27546b59252da71719040d9a032c/4a36acaf2edda3cc01bd7d6e0ae93901213f9227.jpg){:height="100" width="500"}
+![](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D109/sign=a49d27546b59252da71719040d9a032c/4a36acaf2edda3cc01bd7d6e0ae93901213f9227.jpg)
 
 那么只要给定x值各异的3点，总会有次数不多于2的多项式可以把它们串起。
 
