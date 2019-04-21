@@ -2,7 +2,7 @@
 keywords: hostname,ifconfig
 layout: post
 title: Linux find命令
-category: find
+category: Linux
 ---
 
 ## 正文
