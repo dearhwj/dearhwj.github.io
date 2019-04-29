@@ -17,7 +17,7 @@ keywords: 大数定律
 ```
 
 
-##大数定律
+### 大数定律
 
 大数定律就是我们从统计学中推测真相的理论基础。
 
@@ -42,3 +42,8 @@ keywords: 大数定律
 
 也就是说，只要你一直玩下去，你每次游戏的预期收益是3.5元。可能你某次赢了1元，某一次赢了6元，只要你长期投下去， 你平均下来每次就赢3.5元。
 
+
+### 参考资料
+* [大数定律的形象理解](https://blog.csdn.net/anshuai_aw1/article/details/82771784)
+* [详细解释大数定律+中心极限定理](https://blog.csdn.net/u010626937/article/details/80942751)
+* [https://www.zhihu.com/question/22913867/answer/250046834](https://www.zhihu.com/question/22913867/answer/250046834)
