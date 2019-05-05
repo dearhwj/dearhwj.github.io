@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 置信区间&置信率
+title: 归一化和标准化
 category: 数学和算法
 keywords: 去量纲,数据归一化
 ---
