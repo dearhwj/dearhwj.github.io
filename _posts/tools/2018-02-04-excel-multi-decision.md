@@ -1,4 +1,9 @@
-# EXCEL多重判断
+---
+layout: post
+title: EXCEL多重判断
+category: 工具和效率
+--- 
+## 正文 
 原文地址:[http://blog.sina.com.cn/s/blog_603d40f70100esta.html](http://blog.sina.com.cn/s/blog_603d40f70100esta.html)
 
 ### 经典法：if多重判断
