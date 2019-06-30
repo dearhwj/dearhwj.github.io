@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  独热编码
-category: 智能制造
+category: 数学和算法
 keywords: 
 ---
 
